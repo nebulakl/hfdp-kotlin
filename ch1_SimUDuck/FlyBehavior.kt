@@ -1,0 +1,3 @@
+interface FlyBehavior {
+    fun fly()
+}
